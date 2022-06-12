@@ -9,7 +9,3 @@ A design system for enterprise-level products.
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aethicjs/aethic/blob/main/LICENSE)
 
 </div>
-
-# License
-
-Ths project is [MIT licensed](./LICENSE).
