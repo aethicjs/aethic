@@ -2,7 +2,9 @@
   "name": "aethic-monorepo",
   "description": "Aethic Design Monorepo",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "init": "lerna run init --scope=@aethic/aethic"
+  },
   "workspaces": [
     "packages/*"
   ],
